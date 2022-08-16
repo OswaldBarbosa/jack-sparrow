@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 150px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+main{
+    background-color: black;
+}
+
+.intro-container{
+    display: flex;
+    gap: 30px;
+    padding-top: 20px;
+    padding-bottom: 32px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.caveira{
+    height: 150px;
+}
+
+.jack{
+    height: 450px;
+    padding-left: 20px;
+    
+}
+
+.subtitulo{
+    color: white;
+    width: 800px;
+    text-align: center;
+    font-size: 48px;
+}
+
+.conteudo{
+    padding-left: 150px;
+    color: white;
+    width: 750px;
+    padding-top: 25px;
+    font-size: 25px;
+}
+
+.filmes{
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 150px;
+    padding-top: 50px;
+    flex-direction: column;
+    color: white;
+}
+
+.trilogia{
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 30px;
+    padding-left: 130px;
+    color: white;
+    font-size: 20px;
+    
+}
+
+footer{
+    background-color: black;
+    height: 150px;
+
+}
