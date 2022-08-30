@@ -36,7 +36,7 @@ main{
 }
 
 .subtitulo{
-    color: white;
+    color: black;
     width: 800px;
     text-align: center;
     font-size: 48px;
@@ -44,7 +44,7 @@ main{
 
 .conteudo{
     padding-left: 150px;
-    color: white;
+    color: black;
     width: 750px;
     padding-top: 25px;
     font-size: 25px;
@@ -80,20 +80,25 @@ footer{
 }
 
 @media (max-width: 640px){
-    .jack {
-        height: 210px;
-    }
     .caveira{
         height: 100px;
     }
+    .jack {
+        height: 210px;
+    }
+    .subtitulo {
+        display: none;
+    }
+    .conteudo {
+        padding-left: 10vw;
+        width: 200%;
+    }
     .filmes {
-        font-size: 10vw;
+        font-size: 7vw;
         padding-left: 25px;
     }
     .trilogia {
-        font-size: 6vw;
+        font-size: 4vw;
         padding-left: 50px;
-    }
 }
-
-
+}
