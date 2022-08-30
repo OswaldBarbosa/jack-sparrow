@@ -77,5 +77,23 @@ footer{
     padding-top: 40px;
     display: flex;
     justify-content: center;
-
 }
+
+@media (max-width: 640px){
+    .jack {
+        height: 210px;
+    }
+    .caveira{
+        height: 100px;
+    }
+    .filmes {
+        font-size: 10vw;
+        padding-left: 25px;
+    }
+    .trilogia {
+        font-size: 6vw;
+        padding-left: 50px;
+    }
+}
+
+
