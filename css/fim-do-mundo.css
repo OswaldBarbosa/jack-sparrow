@@ -1,0 +1,8 @@
+.fim-do-mundo {
+    height: 50vh;
+    transition: .5s;
+}
+
+.fim-do-mundo:hover {
+    height: 55vh;
+}

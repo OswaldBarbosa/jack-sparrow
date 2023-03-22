@@ -1,0 +1,8 @@
+.navengando-aguas-misteriosas {
+    height: 50vh;
+    transition: .5s;
+}
+
+.navengando-aguas-misteriosas:hover {
+    height: 55vh;
+}

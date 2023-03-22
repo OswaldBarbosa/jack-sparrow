@@ -1,0 +1,8 @@
+.vinganca-de-salazar {
+    height: 50vh;
+    transition: .5s;
+}
+
+.vinganca-de-salazar:hover {
+    height: 55vh;
+}

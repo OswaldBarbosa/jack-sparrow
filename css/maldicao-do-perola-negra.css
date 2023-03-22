@@ -1,0 +1,8 @@
+.maldicao-do-perola {
+    height: 50vh;
+    transition: .5s;
+}
+
+.maldicao-do-perola:hover {
+    height: 55vh;
+}

@@ -1,0 +1,17 @@
+.bau-da-morte {
+    height: 50vh;
+    transition: .5s;
+}
+
+.bau-da-morte:hover {
+    height: 55vh;
+}
+
+.title-bau-da-morte {
+    display: flex;
+    justify-content: center;
+    padding-top: 2vh;
+    font-size: vh;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+}
