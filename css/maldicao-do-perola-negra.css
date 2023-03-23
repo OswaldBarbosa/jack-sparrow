@@ -6,3 +6,8 @@
 .maldicao-do-perola:hover {
     height: 55vh;
 }
+
+@media (max-width: 640px) {
+    .maldicao-do-perola {
+    }
+}

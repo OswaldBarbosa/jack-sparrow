@@ -6,3 +6,9 @@
 .vinganca-de-salazar:hover {
     height: 55vh;
 }
+
+@media (max-width: 640px) {
+    .vinganca-de-salazar {
+        margin-top: 5vh;
+    }
+}

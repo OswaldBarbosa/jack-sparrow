@@ -41,3 +41,19 @@ footer {
     color: #fff;
 }
 
+@media (max-width: 640px) {
+    .caveira {
+        padding-top: 1vh;
+    }
+    .filmes {
+        display: grid;
+        flex-direction: column;
+    }
+
+    footer {
+        height: 225vh;
+        display: flex;
+        align-items: flex-end;
+        font-size: 1.6vh;
+    }
+}

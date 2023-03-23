@@ -7,11 +7,8 @@
     height: 55vh;
 }
 
-.title-bau-da-morte {
-    display: flex;
-    justify-content: center;
-    padding-top: 2vh;
-    font-size: vh;
-    color: #fff;
-    font-family: 'Inter', sans-serif;
+@media (max-width: 640px) {
+    .bau-da-morte {
+        margin-top: 5vh;
+    }
 }

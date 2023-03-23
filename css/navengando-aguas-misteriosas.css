@@ -6,3 +6,10 @@
 .navengando-aguas-misteriosas:hover {
     height: 55vh;
 }
+
+@media (max-width: 640px) {
+    .navengando-aguas-misteriosas {
+        height: 50vh;
+        margin-top: 5vh;
+    }
+}

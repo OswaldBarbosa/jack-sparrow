@@ -6,3 +6,9 @@
 .fim-do-mundo:hover {
     height: 55vh;
 }
+
+@media (max-width: 640px) {
+    .fim-do-mundo {
+        margin-top: 5vh;
+    }
+}
